@@ -1,0 +1,1 @@
+const String _fabricImageL = 'https://img1.exportersindia.com/product_images/bc-full/dir_63/1871703/silk-fabric-1374275.jpg';
